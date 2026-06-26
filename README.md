@@ -1,8 +1,8 @@
 # Hi, I'm Sujay
 
-Currently doing my M.S. in Game Technologies in Germany at Hochschule Bonn-Rhein-Sieg. So far, my journey has been as a Unity developer in India. I couldn't secure a role at a gaming company there, so my work focused on simulations and Three.js applications.
+Currently doing my M.S. in Game Technologies in Germany at Hochschule Bonn-Rhein-Sieg. So far, my journey has been as a Unity developer in India. Most of my work is focused on simulations and Three.js applications.
 
-But I can make a decent game too
+But I can make decent games too
 
 <img width="400" height="225" alt="lunatics" src="https://github.com/user-attachments/assets/138c7259-0b14-4763-a5b2-7ae73f507b92" />
 
