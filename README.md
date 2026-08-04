@@ -7,12 +7,43 @@ sujayamberkar@gmail.com · [sujay-amberkar.web.app](https://sujay-amberkar.web.a
 
 Currently doing my M.S. in Game Technologies in Germany at Hochschule Bonn-Rhein-Sieg. So far, my journey has been as a Unity developer in India. Most of my work is focused on simulations and Three.js applications.
 
-But I can make decent games too
+<table>
+<tr>
+<td align="center">
+<img width="400" src="https://github.com/user-attachments/assets/c4d2a4c1-73f8-4955-9925-27a8c3b835a1" />
+<br />
+<b>KoClash</b>
+<br />
+Multiplayer game prototype
+</td>
 
-<img width="400" height="225" alt="koClash" src="https://github.com/user-attachments/assets/c4d2a4c1-73f8-4955-9925-27a8c3b835a1" />
-<img width="400" height="225" alt="lunatics" src="https://github.com/user-attachments/assets/138c7259-0b14-4763-a5b2-7ae73f507b92" />
-<img width="400" height="225" alt="hairCompute" src="https://github.com/user-attachments/assets/610e375d-86b6-4adf-a849-de36e3757b1e" />
-<img width="400" height="225" alt="DrumsVR" src="https://github.com/user-attachments/assets/abcb46e8-7464-495d-bfe6-277c8bc8fd27" />
+<td align="center">
+<img width="400" src="https://github.com/user-attachments/assets/138c7259-0b14-4763-a5b2-7ae73f507b92" />
+<br />
+<b>Lunatics</b>
+<br />
+Terraforming multiplayer game
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img width="400" src="https://github.com/user-attachments/assets/610e375d-86b6-4adf-a849-de36e3757b1e" />
+<br />
+<b>Hair Compute</b>
+<br />
+GPU compute shader simulation
+</td>
+
+<td align="center">
+<img width="400" src="https://github.com/user-attachments/assets/abcb46e8-7464-495d-bfe6-277c8bc8fd27" />
+<br />
+<b>DrumsVR</b>
+<br />
+VR rhythm game
+</td>
+</tr>
+</table>
 
 
 ---
